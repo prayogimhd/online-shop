@@ -29,7 +29,7 @@
 1. **Clone Repo**
 
 ```
-$ git clone https://github.com/prayogimhd/petshop.git
+$ git clone https://github.com/prayogimhd/online-shop.git
 ```
 2. Jalankan perintah
 
@@ -83,6 +83,7 @@ GITHUB_CLIENT_ID=xxxxxxxxxxxxxx
 GITHUB_CLIENT_SECRET=xxxxxxxxxxxxx
 GITHUB_CLIENT_REDIRECT=xxxxxxxxxxxxxxxx
 
+# daftar midtrans untuk mendapatkan key
 MIDTRANS_MERCHAT_ID=xxxxxxxxxxxx
 MIDTRANS_CLIENT_KEY=SB-Mid-client-xxxxxxxx
 MIDTRANS_SERVER_KEY=SB-Mid-server-xxxxxxxx
