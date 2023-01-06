@@ -11,9 +11,9 @@
 
 ## Preview
 
-![](https://github.com/prayogimhd/petshop/blob/main/public/github/shop.png?raw=true)   |   ![](https://github.com/prayogimhd/petshop/blob/main/public/github/my-order.png?raw=true)
+![](https://github.com/prayogimhd/online-shop/blob/main/public/github/shop.png?raw=true)   |   ![](https://github.com/prayogimhd/online-shop/blob/main/public/github/my-order.png?raw=true)
 :---:|:---:
-![](https://github.com/prayogimhd/petshop/blob/main/public/github/admin-order.png?raw=true)  |  ![](https://github.com/prayogimhd/petshop/blob/main/public/github/configurasi.png?raw=true)
+![](https://github.com/prayogimhd/online-shop/blob/main/public/github/admin-order.png?raw=true)  |  ![](https://github.com/prayogimhd/online-shop/blob/main/public/github/configurasi.png?raw=true)
 
 
 ***
